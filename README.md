@@ -4,4 +4,4 @@ Progetto universitario per il corso di **Reti Informatiche** (Ingegneria Informa
 Il progetto è stato sviluppato in linguaggio **C** esclusivamente per i sistemi **Linux**.
 Per la corretta esecuzione del programma, è fortemente consigliata l'esecuzione con il comano **make**.
 
-Il progetto è un'applicazione distribuita client-server che implementa il gioco del *Lotto*
+Il progetto è un'applicazione distribuita client-server che implementa il gioco del *Lotto*. Per maggiori dettagli leggere le **Specifiche di Progetto**
