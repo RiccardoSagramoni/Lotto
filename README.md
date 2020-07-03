@@ -1,2 +1,7 @@
 # Lotto
-University Project for "Computer Networks" course (BSc Computer Engineering, University of Pisa). Developed in C for Linux systems.
+Progetto universitario per il corso di **Reti Informatiche** (Ingegneria Informatica, UniPi).
+
+Il progetto è stato sviluppato in linguaggio **C** esclusivamente per i sistemi **Linux**.
+Per la corretta esecuzione del programma, è fortemente consigliata l'esecuzione con il comano **make**.
+
+Il progetto è un'applicazione distribuita client-server che implementa il gioco del *Lotto*
