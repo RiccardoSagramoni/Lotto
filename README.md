@@ -5,4 +5,3 @@ Il progetto è stato sviluppato in linguaggio **C** esclusivamente per i sistemi
 Per la corretta compilazione del programma, è fortemente consigliata l'esecuzione del comando **make**.
 
 Il progetto è un'applicazione distribuita client-server che implementa il gioco del *Lotto*. Per maggiori dettagli leggere le **Specifiche di Progetto**
-...
